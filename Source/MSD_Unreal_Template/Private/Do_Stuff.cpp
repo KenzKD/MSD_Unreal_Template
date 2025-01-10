@@ -22,6 +22,7 @@ void ADo_Stuff::BeginPlay()
 void ADo_Stuff::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	AddActorLocalRotation(FRotator(1,1,1));
 	
 }
 

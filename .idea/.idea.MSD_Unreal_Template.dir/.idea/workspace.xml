@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701c876-3ba3-47f2-b41e-8b6f6efcab9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/MSD_Unreal_Template/Public/Kenzel_Testing.h" afterDir="false" />
+    <list default="true" id="f701c876-3ba3-47f2-b41e-8b6f6efcab9e" name="Changes" comment="Added Cpp file">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MSD_Unreal_Template.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MSD_Unreal_Template.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_MyDo_Stuff.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_MyDo_Stuff.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MSD_Unreal_Template.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/MSD_Unreal_Template.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MSD_Unreal_Template/Private/Do_Stuff.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MSD_Unreal_Template/Private/Do_Stuff.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,12 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Source/MSD_Unreal_Template/Public/Kenzel_Testing.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MSD_Unreal_Template/Private/Do_Stuff.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MSD_Unreal_Template/Private/Do_Stuff.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -145,13 +152,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736511111351</updated>
-      <workItem from="1736511114703" duration="2014000" />
+      <workItem from="1736511114703" duration="3064000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Cpp file">
+      <option name="closed" value="true" />
+      <created>1736513495596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736513495596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -166,5 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Cpp file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Cpp file" />
   </component>
 </project>
