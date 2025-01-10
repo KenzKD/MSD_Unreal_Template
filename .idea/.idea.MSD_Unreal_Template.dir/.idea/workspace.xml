@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701c876-3ba3-47f2-b41e-8b6f6efcab9e" name="Changes" comment="" />
+    <list default="true" id="f701c876-3ba3-47f2-b41e-8b6f6efcab9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/MSD_Unreal_Template/Public/Kenzel_Testing.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MSD_Unreal_Template.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MSD_Unreal_Template.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,9 @@
     "accountId": "c2c6e03d-fd47-48c0-abbb-f571ea8d0bd1"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/MSD_Unreal_Template/Public/Kenzel_Testing.h" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
@@ -139,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736511111351</updated>
-      <workItem from="1736511114703" duration="709000" />
+      <workItem from="1736511114703" duration="2014000" />
     </task>
     <servers />
   </component>
