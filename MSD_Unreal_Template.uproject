@@ -163,6 +163,10 @@
 		{
 			"Name": "Buoyancy",
 			"Enabled": true
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
 		}
 	]
 }
