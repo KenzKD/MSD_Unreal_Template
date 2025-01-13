@@ -167,6 +167,10 @@
 		{
 			"Name": "NaniteDisplacedMesh",
 			"Enabled": true
+		},
+		{
+			"Name": "DaySequence",
+			"Enabled": true
 		}
 	]
 }
