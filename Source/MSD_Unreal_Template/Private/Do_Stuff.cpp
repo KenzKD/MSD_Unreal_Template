@@ -1,7 +1,7 @@
 #include "Do_Stuff.h"
 #include "Kismet/KismetSystemLibrary.h"
 
-#define UKSL UKismetSystemLibrary
+#define UKSysLib UKismetSystemLibrary
 
 // Sets default values
 ADo_Stuff::ADo_Stuff()
@@ -21,5 +21,5 @@ void ADo_Stuff::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 	AddActorLocalRotation(FRotator(1,1,1));
-	UKSL::PrintString(this, "Hello World", true, true, FColor::Red, 2);
+	UKSysLib::PrintString(this, "Hello World", true, true, FColor::Red, 2);
 }
